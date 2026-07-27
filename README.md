@@ -19,3 +19,18 @@ management, and clean console UI design.
 - Console Application (top-level statements)
 
 ## Project Structure
+
+StudentsManager/
+├── Models/
+│ └── Student.cs
+├── Services/
+│ └── StudentsRepository.cs
+└── Program.cs
+
+## Getting Started
+
+```bash
+git clone https://github.com/username/StudentsManager.git
+cd StudentsManager
+dotnet run
+```
