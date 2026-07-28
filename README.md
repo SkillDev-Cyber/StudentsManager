@@ -20,12 +20,14 @@ management, and clean console UI design.
 
 ## Project Structure
 
+```
 StudentsManager/
 ├── Models/
-│ └── Student.cs
+│   └── Student.cs
 ├── Services/
-│ └── StudentsRepository.cs
+│   └── StudentsRepository.cs
 └── Program.cs
+```
 
 ## Getting Started
 
